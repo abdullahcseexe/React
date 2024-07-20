@@ -13,3 +13,4 @@ console.log(heading);
 const jsxHeading = <h1 id="heading">Namaste React using JSX</h1>
 console.log(jsxHeading);
 // Jsx is not HTMl in JS but but has HTML-like syntax. JSX is JSX. 
+"# zwig" 
